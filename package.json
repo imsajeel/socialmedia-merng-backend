@@ -2,5 +2,11 @@
   "name": "merng",
   "version": "1.0.0",
   "main": "index.js",
-  "license": "MIT"
+  "license": "MIT",
+  "author": "Sajeel Aalam <imsajeel.dev@gmail.com>",
+  "dependencies": {
+    "apollo-server": "^2.19.0",
+    "graphql": "^15.4.0",
+    "mongoose": "^5.11.4"
+  }
 }
